@@ -1,0 +1,10 @@
+[
+  {
+    "query": "Write a short LinkedIn post about something you learned this week.",
+    "ideal_answer_notes": "Should match the user's typical LinkedIn tone/length and reference something plausible from their actual retrieved content, not invented facts."
+  },
+  {
+    "query": "Explain a technical concept from one of your projects the way you would in a blog post.",
+    "ideal_answer_notes": "Should match blog-register phrasing (longer, more structured) rather than LinkedIn's shorter style."
+  }
+]

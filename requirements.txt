@@ -1,0 +1,30 @@
+# Core
+python-dotenv
+pydantic
+
+# Data warehouse / storage
+pymongo
+qdrant-client
+
+# Embeddings / NLP
+sentence-transformers
+tiktoken
+
+# Fine-tuning
+torch
+transformers
+peft
+bitsandbytes
+accelerate
+datasets
+
+# LLM API access (instruction generation, judging)
+openai
+
+# Crawling
+requests
+beautifulsoup4
+
+# Notebooks / eval
+jupyter
+pandas

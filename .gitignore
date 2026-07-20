@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.env
+*.jsonl
+!evaluation/golden_dataset.json
+training_pipeline/checkpoints/
+training_pipeline/dataset_versions/
+evaluation/eval_results.json
+evaluation/monitoring/interaction_log.jsonl
+.ipynb_checkpoints/
+linkedin_export/

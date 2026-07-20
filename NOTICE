@@ -1,0 +1,15 @@
+This project is a course implementation of the "LLM Twin" system described
+in Part Two of:
+
+  LLM Engineer's Handbook
+  Paul Iusztin & Maxime Labonne
+  Packt Publishing
+
+Reference implementation: https://github.com/PacktPublishing/LLM-Engineers-Handbook
+
+Architectural patterns (FTI pipeline separation, instruction-dataset
+generation approach, query expansion + self-query + reranking retrieval
+flow, golden-set / LLM-as-judge evaluation) are adapted from the book and
+its companion repository. Code in this repository is an original
+implementation written for this assignment, not a copy of the reference
+repo, unless a file explicitly states otherwise.
